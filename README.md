@@ -2,7 +2,7 @@
 
 ## Introduction 
 In the real estate sector, accurate house price prediction is a complex yet valuable challenge. It can assist buyers and sellers in making informed decisions, as well as help real estate professionals analyze market trends. This study focuses on applying two machine learning models to solve this problem: Linear Regression and Decision Tree. The objective is to compare the performance of these two models to determine which is more suitable for the selected dataset.
-This study has developed a model capable of predicting housing prices using Machine Learning. The model delivers predictions with about 61% accuracy. The model relies on historical data such as area, bedrooms, bathrooms, stories, parking, and more. I researched and tested several Machine Learning algorithms to select the one that maximizes prediction accuracy.
+This study has developed a model capable of predicting housing prices using Machine Learning. The model delivers predictions with about 58% accuracy. The model relies on historical data such as area, bedrooms, bathrooms, stories, parking, and more. I researched and tested several Machine Learning algorithms to select the one that maximizes prediction accuracy.
 
 ## Methodology & Results
 To answer the research question, I apply the training/test method with two models as Linear Regression and Decision Tree with pruning. After running the models, I will choose and pick the best model based on the accuracy score. 
